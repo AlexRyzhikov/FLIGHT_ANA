@@ -1,0 +1,9 @@
+// The object is not supported in ABAP development tools for VS Code.
+// Please use ABAP development tools for Eclipse or SAP GUI to edit this object.
+// adt://AI6/sap/bc/adt/vit/wb/object_type/sco2/object_name/%2FDMO%2FUI_TRAVEL_O4_ANA_0001_G4BA
+{
+  "name": "/DMO/UI_TRAVEL_O4_ANA_0001_G4BA",
+  "type": "SCO2/",
+  "description": "/DMO/UI_TRAVEL_O4_ANA",
+  "abapLanguageVersion": "cloudDevelopment"
+}

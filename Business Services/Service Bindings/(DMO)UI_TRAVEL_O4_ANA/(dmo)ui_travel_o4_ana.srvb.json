@@ -1,0 +1,22 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Service Binding For Analytical Table",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "bindingType": "ODATA V4",
+  "bindingTypeCategory": "ui",
+  "services": [
+    {
+      "name": "/DMO/UI_TRAVEL_O4_ANA",
+      "versions": [
+        {
+          "serviceVersion": "1.0.0",
+          "serviceBuildVersion": "",
+          "serviceDefinition": "/DMO/UI_TRAVEL_O4_ANA"
+        }
+      ]
+    }
+  ]
+}

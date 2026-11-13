@@ -1,0 +1,9 @@
+// The object is not supported in ABAP development tools for VS Code.
+// Please use ABAP development tools for Eclipse or SAP GUI to edit this object.
+// adt://AI6/sap/bc/adt/vit/wb/object_type/sush/object_name/B5628DB5E1EE7079A445725A776DAAHT
+{
+  "name": "B5628DB5E1EE7079A445725A776DAAHT",
+  "type": "SUSH/",
+  "description": "R3TR G4BA /DMO/UI_TRAVEL_O4_ANA",
+  "abapLanguageVersion": "cloudDevelopment"
+}

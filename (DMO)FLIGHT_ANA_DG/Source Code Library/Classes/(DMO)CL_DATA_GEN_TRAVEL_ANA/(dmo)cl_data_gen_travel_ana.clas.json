@@ -1,0 +1,9 @@
+{
+  "formatVersion": "ADT-4",
+  "header": {
+    "description": "Data Generator for Analytical Table",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "fixPointArithmetic": true
+}

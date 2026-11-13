@@ -1,0 +1,14 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "/DMO/UI_TRAVEL_O4_ANA",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "customInboundService",
+    "uiadId": "",
+    "transactionCode": "",
+    "restrictionTypeMigStatus": "notMigrated"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "ANA: Data Generator",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "enhancementSpot": "/DMO/DATA_GENERATION_ENH_SPOT"
+  },
+  "badiImplementations": [
+    {
+      "name": "/DMO/CL_DATA_GEN_TRAVEL_ANA",
+      "description": "",
+      "badiDefinition": "/DMO/DATA_GENERATION_BADI",
+      "implementingClass": "/DMO/CL_DATA_GEN_TRAVEL_ANA",
+      "isActiveImplementation": true
+    }
+  ]
+}

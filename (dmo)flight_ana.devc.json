@@ -1,0 +1,17 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Flight Reference Scenario: Analytical Table",
+    "originalLanguage": "en"
+  },
+  "generalInformation": {
+    "type": "development",
+    "superPackage": "/DMO/FLIGHT",
+    "applicationComponent": "",
+    "softwareComponent": "/DMO/FLIGHT_SWC",
+    "transportLayer": "$SPL",
+    "supportsRecordChanges": true,
+    "isEncapsulated": true,
+    "defaultAbapLanguageVersion": "cloudDevelopment"
+  }
+}
